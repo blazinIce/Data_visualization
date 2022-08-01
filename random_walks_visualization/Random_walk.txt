@@ -1,0 +1,14 @@
+I used Python to generate data for a random walk, and
+then used Matplotlib to create a visually appealing representation of that
+data.
+A random walk is a path that has no clear direction but is determined
+by a series of random decisions, each of which is left entirely to chance. You
+might imagine a random walk as the path a confused ant would take if it
+took every step in a random direction.
+
+Random walks have practical applications in nature, physics, biology,
+chemistry, and economics. For example, a pollen grain floating on a
+drop of water moves across the surface of the water because it’s constantly
+pushed around by water molecules. Molecular motion in a water drop is
+random, so the path a pollen grain traces on the surface is a random walk.
+This code models many real-world situations.
